@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">graduated_project_lung</string>
+    <string name="upload_button_text">Upload X-Ray Image</string>
+    <string name="result_text_default">Result will appear here</string>
+    <string name="image_description">X-Ray image preview</string>
+    <string name="graduated_project_lung">Lung Cancer Detection</string>
+</resources>
